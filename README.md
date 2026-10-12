@@ -42,13 +42,14 @@ If you want to see how I practice problem solving, find me on [LeetCode](https:/
 - 💻 [LeetCode](https://leetcode.com/u/ram0kr0singh/)
 - 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/ram0kr0singh/)
 - 🎓 [Naukri Code360](https://www.naukri.com/code360/profile/bf723478-4d01-4f40-a387-6953de21edb8)
-- 💼 [LinkedIn:](www.linkedin.com/in/ram-kumar-singh-516a283a9).
+- 💼 [LinkedIn:](www.linkedin.com/in/ram-kumar-singh-516a283a9)
 ## ✨ Fun facts
 
 - I enjoy hackathons: 24 hours, a hard problem, and a working demo at the end
+<!--
 - _Add your favorite anime / hobby / pet / gym routine here_
 - _Add one more personal fact here_
-
+-->
 ---
 
 _Open to internships and collaborations. Feel free to reach out!_
