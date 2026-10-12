@@ -6,7 +6,7 @@ I like building things that actually work, especially around security, automatio
 
 If a problem sounds interesting, chances are I'll prototype it the same weekend.
 
-My main language is **Python**. I plan and ship projects fast with modern AI coding tools (Copilot, Codex, Claude), but I always own the architecture.
+My main language is **Python, Java, React**.
 
 I've got a couple of pinned projects, but my favorite is **[BrandShieldWEB](https://github.com/Ram0kr0singh/BrandShieldWEB)**, a Digital Risk Protection platform I built the backend for in a 24-hour hackathon. It detects brand impersonation, fake apps, and look-alike social accounts.
 
