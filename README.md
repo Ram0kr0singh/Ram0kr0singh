@@ -49,7 +49,7 @@ If you want to see how I practice problem solving, find me on [LeetCode](https:/
 
 <p align="left">
   <a href="https://github.com/Ram0kr0singh">
-    <img height="180" alt="Ram's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ram0kr0singh&show_icons=true&theme=dark&hide_border=true" />
+    <img height="165" alt="Ram's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ram0kr0singh&show_icons=true&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/Ram0kr0singh">
     <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram0kr0singh&layout=compact&theme=dark&hide_border=true&card_width=380" />
