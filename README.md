@@ -24,9 +24,11 @@ If you want to see how I practice problem solving, find me on [LeetCode](https:/
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -37,6 +39,7 @@ If you want to see how I practice problem solving, find me on [LeetCode](https:/
 
 - 🧪 [**Self-Verifying AI**](https://github.com/Harsh0012-ux/Self-Verifying-AI): research prototype that generates multiple code candidates, tests them in an isolated Docker sandbox, and selects one using execution evidence. The repo reports 92% to 100% task success on a 25-task HumanEval run.
 - 🛡️ [**BrandShield**](https://github.com/Ram0kr0singh/BrandShieldWEB): Digital Risk Protection platform with brand profiling, social and app store monitoring, and look-alike detection. I built the backend (FastAPI, PostgreSQL, Docker) in 24 hours. It runs on synthetic data and is a prototype, not a live takedown service.
+- 🩺 [**Multiple Disease Prediction**](https://github.com/Ram0kr0singh/multiple-disease-prediction-app): Streamlit app that predicts diabetes, heart disease and Parkinson's using scikit-learn (linear SVM and logistic regression, 77% to 87% test accuracy). Includes one-click demo samples, feature-contribution charts and light/dark themes. Built with [Harsh](https://github.com/Harsh0012-ux) at Hack 5.0; [live demo](https://multiple-disease-prediction-app-by-ram0kr0singh.streamlit.app/). Educational demo, not a medical diagnosis.
 - 📡 [**RSSI Robot Navigation**](https://github.com/Ram0kr0singh/RSSI-Based-Gradient-Descent-Approach-for-Collaborative-Robot-Localization-and-Navigation): GPS-free robot that navigates toward a Wi-Fi signal source using RSSI, with ultrasonic obstacle avoidance and IMU heading correction on ESP8266 (~$12–18 per unit). 95% navigation success in 20 hardware trials at 2–3 m starts. Paper accepted at **SASIGD 2026**.
 
 ## 🏆 Highlights
@@ -66,7 +69,7 @@ If you want to see how I practice problem solving, find me on [LeetCode](https:/
 
 ## ✨ Fun facts
 
-- I enjoy hackathons: 24 hours, a hard problem, and a working demo at the end
+- I enjoy hackathons: 24-48-52 hours, a hard problem, and a working demo at the end
 
 ---
 
